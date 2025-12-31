@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "And I Love You So",
+  "base_artist": "AK-69",
+  "createdAt": "2025-12-31T10:09:35.463444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "梁詠琪",
+      "has_synced": false,
+      "path": "select/01_And_I_Love_You_So_梁詠琪.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "And I Love You So (From \"And I Love You So\")",
+      "artist": "Angeline Quinto",
+      "has_synced": false,
+      "path": "select/02_And_I_Love_You_So_(From__And_I_Love_You_So_)_Angeline_Quinto.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Rick Astley",
+      "has_synced": false,
+      "path": "select/03_And_I_Love_You_So_Rick_Astley.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/04_And_I_Love_You_So_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Don Mclean",
+      "has_synced": true,
+      "path": "select/05_And_I_Love_You_So_Don_Mclean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/06_And_I_Love_You_So_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Nana Mouskouri",
+      "has_synced": true,
+      "path": "select/07_And_I_Love_You_So_Nana_Mouskouri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/08_And_I_Love_You_So_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/09_And_I_Love_You_So_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Perry Como",
+      "has_synced": false,
+      "path": "select/10_And_I_Love_You_So_Perry_Como.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "And I love you so",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/11_And_I_love_you_so_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/12_And_I_Love_You_So_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/13_And_I_Love_You_So_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Roch Voisine",
+      "has_synced": true,
+      "path": "select/14_And_I_Love_You_So_Roch_Voisine.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Perry Como",
+      "has_synced": true,
+      "path": "select/15_And_I_Love_You_So_Perry_Como.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Daniel O’Donnell",
+      "has_synced": true,
+      "path": "select/16_And_I_Love_You_So_Daniel_O’Donnell.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Presley, Elvis",
+      "has_synced": true,
+      "path": "select/17_And_I_Love_You_So_Presley,_Elvis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Michael Ball",
+      "has_synced": false,
+      "path": "select/18_And_I_Love_You_So_Michael_Ball.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "And I Love You So",
+      "artist": "Astley, Rick",
+      "has_synced": true,
+      "path": "select/19_And_I_Love_You_So_Astley,_Rick.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "And I Love you so",
+      "artist": "Roch Voisine",
+      "has_synced": true,
+      "path": "select/20_And_I_Love_you_so_Roch_Voisine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "And I Love You So",
+      "artist": "AK-69",
+      "has_synced": false,
+      "path": "select/pl_01_And_I_Love_You_So_AK-69.txt"
+    }
+  ]
+}
